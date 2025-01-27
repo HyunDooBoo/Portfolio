@@ -1,14 +1,33 @@
-### 🎖️ Infra 프로젝트 목록 🎖️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&duration=2000&pause=1500&color=BBF7D5&background=0067FF00&multiline=true&width=435&height=100&lines=Hello!+I'm+Hyundoo👋;It's+my+Portfolio!🏆)](https://git.io/typing-svg)
+
+<br>
+
+**👋 안녕하세요! 저는 다양한 기술 스택을 활용하여 데이터 분석 및 개발 프로젝트를 수행해온 백엔드 개발자입니다. 💻 본 포트폴리오에서는 제가 참여한 Infra 및 Dev 프로젝트들을 소개합니다. 🚀**
+
+**각 프로젝트는 실제 문제를 해결하기 위해 기획되었으며, 데이터 기반의 인사이트 도출과 사용자 경험 향상에 중점을 두었습니다. 📊✨**
+
+
+<br>
+
+## 🎯 목표
+
+- 데이터를 분석하고 그로부터 인사이트를 끌어내어, 보다 효과적인 의사결정을 할 수 있도록 지원합니다. 📊
+- 최신 기술과 트렌드를 끊임없이 배우며, 변화하는 환경에 능동적으로 대응할 준비를 합니다. 📚
+- 다양한 아이디어를 수렴하고, 협업을 통해 최상의 결과물을 만들어내기 위해 항상 함께합니다. 🤝
+- 항상 사용자의 경험을 최우선으로 생각하며, 직관적이고 편리한 시스템을 만들기 위해 노력합니다. 👥
+
+<br>
+
+### 🌐 Infra 프로젝트 🎖️
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1 | **ELK 시각화 프로젝트**  | Ubuntu 환경에서 ELK 스택을 활용해 SQL-ES 간의 Pipeline 을 구축하고 Kibana 를 활용해 나라별 빅맥 지수와, 최저 임금, 관광 데이터 간의 인사이트 도출 및 시각화를 진행한 프로젝트 | ubuntu, elasticsearch, kibana, logstash | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/BicMac-index) | 2025-01-21 |
 | 2 | **금융 데이터 분석 프로젝트**  | 실제 금융 데이터를 ELK 스택을 활용해 시각화 한 뒤 분석한 프로젝트 | ubuntu, elasticsearch, kibana, virtualBox, MobaXtrem | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/card-data-analysis) | 2025-01-24 |
 
-
 <br>
 
-### ✨ Dev 프로젝트 목록 ✨
+### 💻 Dev 프로젝트 ✨
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
