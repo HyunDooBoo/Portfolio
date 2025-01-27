@@ -2,7 +2,8 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1 | **서술 예정**  | 설명 | 기술 | 인원 | [GitHub 링크](링크) | 0000-00-00 |
+| 1 | **ELK 시각화 프로젝트**  | Ubuntu 환경에서 ELK 스택을 활용해 SQL-ES 간의 Pipeline 을 구축하고 Kibana 를 활용해 나라별 빅맥 지수와, 최저 임금, 관광 데이터 간의 인사이트 도출 및 시각화를 진행한 프로젝트 | ubuntu, elasticsearch, kibana, logstash | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/BicMac-index) | 2025-01-21 |
+| 2 | **ELK 시각화 프로젝트**  | 실제 금융 데이터를 ELK 스택을 활용해 시각화 한 뒤 분석한 프로젝트 | ubuntu, elasticsearch, kibana, virtualBox, MobaXtrem | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/card-data-analysis) | 2025-01-24 |
 
 
 <br>
