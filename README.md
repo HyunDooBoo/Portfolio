@@ -27,6 +27,7 @@
 | 1 | **ELK 시각화 프로젝트**  | Ubuntu 환경에서 ELK 스택을 활용해 SQL-ES 간의 Pipeline 을 구축하고 Kibana 를 활용해 나라별 빅맥 지수와, 최저 임금, 관광 데이터 간의 인사이트 도출 및 시각화를 진행한 프로젝트 | ubuntu, elasticsearch, kibana, logstash | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/BicMac-index) | 2025-01-21 |
 | 2 | **금융 데이터 분석 프로젝트**  | 실제 금융 데이터를 ELK 스택을 활용해 시각화 한 뒤 분석한 프로젝트 | ubuntu, elasticsearch, kibana, virtualBox, MobaXtrem | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/card-data-analysis) | 2025-01-24 |
 | 3 | **실시간 코인 정보 시각화 프로젝트**  | 카프카를 통한 데이터 파이프라인 구축 및 실시간 시각화 프로젝트 | kafka, ubuntu, mongodb, elasticsearch, kibana, java, python | 4명 | [GitHub 링크](https://github.com/love-tooth/fisa-tech-senima) | 2025-02-17 |
+| 4 | **Docker Practice**  | Dockerfile을 통한 image화 및 최적화, docker hub upload | docker, linux | 4명 | [GitHub 링크](https://github.com/OhKimJeeSuh/spring-boot-docker) | 2025-03-19 |
 
 <br>
 
