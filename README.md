@@ -26,6 +26,7 @@
 |----|---------------|------|-----------|----------|------|------|
 | 1 | **ELK 시각화 프로젝트**  | Ubuntu 환경에서 ELK 스택을 활용해 SQL-ES 간의 Pipeline 을 구축하고 Kibana 를 활용해 나라별 빅맥 지수와, 최저 임금, 관광 데이터 간의 인사이트 도출 및 시각화를 진행한 프로젝트 | ubuntu, elasticsearch, kibana, logstash | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/BicMac-index) | 2025-01-21 |
 | 2 | **금융 데이터 분석 프로젝트**  | 실제 금융 데이터를 ELK 스택을 활용해 시각화 한 뒤 분석한 프로젝트 | ubuntu, elasticsearch, kibana, virtualBox, MobaXtrem | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/card-data-analysis) | 2025-01-24 |
+| 3 | **실시간 코인 정보 시각화 프로젝트**  | 카프카를 통한 데이터 파이프라인 구축 및 실시간 시각화 프로젝트 | kafka, ubuntu, mongodb, elasticsearch, kibana, java, python | 4명 | [GitHub 링크](https://github.com/love-tooth/fisa-tech-senima) | 2025-02-17 |
 
 <br>
 
@@ -37,5 +38,6 @@
 | 2 | **JWT 로그인 구현 프로젝트** | JWT 와 Redis 를 사용한 로그인 구현 프로젝트 | jwt, redis, java, jpa | 단독 | [GitHub 링크](https://github.com/HyunDooBoo/Dongbi_BE) | 2024-07-05 |
 | 3 | **Hey Bid! 중고 경매 플랫폼** | 중고 물건을 상향식, 하향식 두 가지 방식으로 거래할 수 있는 플랫폼 | java, jpa, jwt, spring boot, flutter, redis, es, docker, github action, portOne, fcm | 6인 | [GitHub 링크](https://github.com/HyunDooBoo/As_BE) | 2024-11-18 |
 | 4 | **Netflix-Suggest** | Netflix Movie Data 를 활용하여 JDBC 를 기반으로 DB 와 상호작용하는 CRUD 구현 프로젝트 | python, jdbc, java | 4인 | [GitHub 링크](https://github.com/HyunDooBoo/NS_BE) | 2025-01-03 |
+| 5 | **멘토/멘티 매칭 플랫폼**  | 은퇴한 5060 세대의 지혜와 경험을 새로운 세대와 연결하는 서비스 | springboot, java, jsp, servlet, mysql | 4명 | [GitHub 링크](https://github.com/love-tooth/Mentorship-hub) | 2025-02-07 |
 
 
