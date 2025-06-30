@@ -21,7 +21,7 @@
 
 | No | Title | Desc | Stack | Scale | Link | Date |
 |----|---------------|------|-----------|----------|------|------|
-| 1 | **실시간 코인 정보 시각화 프로젝트**  | 카프카를 통한 데이터 파이프라인 구축 및 실시간 시각화 프로젝트 | kafka, ubuntu, mongodb, elasticsearch, kibana, java, python | 4명 | [GitHub 링크](https://github.com/love-tooth/fisa-tech-senima) | 2025-02-17 |
+| 1 | **실시간 코인 데이터 시각화 프로젝트**  | 카프카를 통한 데이터 파이프라인 구축 및 업비트 api를 사용해 초, 분, 시, 일 캔들 생성 및 실시간 시각화 프로젝트 | kafka, ubuntu, mongodb, elasticsearch, kibana, java, python, redis | 4명 | [GitHub 링크](https://github.com/Team-Stofka) | 2025-04-15 |
 | 2 | **Kubernetes CI/CD 자동화 프로젝트**  | ArgoCD를 사용한 사내용 GitOps 자동화 프로젝트 | ArgoCD, Jenkins, k8s, Gitea | 단독 | [GitHub 링크](https://github.com/HyunDooBoo/DevOps_demo) | 2025-04-16 |
 | 3 | **DB 백업 자동화 인프라**  | 컨테이너간의 통신을 통해 매 분마다 db를 자동 백업해주는 인프라 구성 프로젝트 | docker, linux, mysql | 단독 | [GitHub 링크](https://github.com/HyunDooBoo/docker-db-infra) | 2025-03-21 |
 | 4 | **Docker Practice**  | Dockerfile을 통한 image화 및 최적화, docker hub upload | docker, linux | 4명 | [GitHub 링크](https://github.com/OhKimJeeSuh/spring-boot-docker) | 2025-03-19 |
